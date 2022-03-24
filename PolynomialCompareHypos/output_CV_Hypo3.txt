@@ -1,0 +1,5 @@
+ADVI converged for run1
+ADVI converged for run2
+ADVI converged for run3
+ADVI converged for run4
+ADVI converged for all chains.
